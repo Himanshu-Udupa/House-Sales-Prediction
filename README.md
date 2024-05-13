@@ -14,7 +14,7 @@
 7. [Lasso Regression](https://github.com/agrawal-priyank/machine-learning-regression/blob/master/lasso-regression/lasso-regression.ipynb)
 8. [Nearest Neighbor Regression](https://github.com/agrawal-priyank/machine-learning-regression/blob/master/nearest-neighbor-regression/nearest-neighbor-regression.ipynb)
 
-### [Data](https://github.com/agrawal-priyank/machine-learning-regression/tree/master/data)
+### [Data](https://github.com/Himanshu-Udupa/House-Sales-Prediction/tree/master/data)
 
 ### Programming Language
 Python
@@ -25,10 +25,3 @@ Anaconda, Graphlab Create [Installation guide](https://turi.com/learn/coursera/)
 ### Tools/IDE 
 Jupyter notebook (IPython)
 
-### How to use it
-1. Fork this repository to have your own copy
-2. Clone your copy on your local system
-3. Install necessary packages
-
-### Note
-This repository does not contain optimal machine learning models! It only assesses various models that can be built using different machine learning algorithms (either implemented or used directly from Graphlab Create package) to perform different tasks.
