@@ -1,27 +1,11 @@
-## Machine Learning Regression: House Sales Price Prediction Models
+## Machine Learning Regression: Seattle House Price Prediction
 
 ### Description
-* Implemented linear regression and k nearest neighbors algorithm with gradient descent optimization to make an optimal model for predicting house prices using the Seattle King County dataset.
+* Implemented linear regression algorithm for predicting house prices using the Seattle King County dataset.
 * Performed feature engineering and selection using lasso and ridge penalties to eliminate features which had little or no impact on the residual sum of squares error.
-
-### Code
-1. [Simple Linear Regression](https://github.com/agrawal-priyank/machine-learning-regression/blob/master/simple-linear-regression/simple-linear-regression.ipynb)
-2. [Multiple Linear Regression](https://github.com/agrawal-priyank/machine-learning-regression/blob/master/multiple-linear-regression/multiple-regression.ipynb)
-3. [Multiple Linear Regression with Gradient Descent Optimization](https://github.com/agrawal-priyank/machine-learning-regression/blob/master/multiple-linear-regression/multiple-regression-gradient-descent.ipynb)
-4. [Polynomial Regression](https://github.com/agrawal-priyank/machine-learning-regression/blob/master/polynomial-regression/polynomial-regression.ipynb)
-5. [Ridge Regression](https://github.com/agrawal-priyank/machine-learning-regression/blob/master/ridge-regression/ridge-regression.ipynb)
-6. [Ridge Regression with Gradient Descent Optimization](https://github.com/agrawal-priyank/machine-learning-regression/blob/master/ridge-regression/ridge-regression-gradient-descent.ipynb)
-7. [Lasso Regression](https://github.com/agrawal-priyank/machine-learning-regression/blob/master/lasso-regression/lasso-regression.ipynb)
-8. [Nearest Neighbor Regression](https://github.com/agrawal-priyank/machine-learning-regression/blob/master/nearest-neighbor-regression/nearest-neighbor-regression.ipynb)
-
-### [Data](https://github.com/Himanshu-Udupa/House-Sales-Prediction/tree/master/data)
+* Built an interactive web page that displays the price of house based on number of bedrooms, bathrooms and dimensions of site as input.
+* Contains main.py file that is basically flask code for fetching the data from model and the price is displayed on web page (index.html in templates folder) based on the inputs provided.
 
 ### Programming Language
-Python
-
-### Packages
-Anaconda, Graphlab Create [Installation guide](https://turi.com/learn/coursera/)
-
-### Tools/IDE 
-Jupyter notebook (IPython)
+Python, Flask, HTML
 
